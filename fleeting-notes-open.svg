@@ -1,0 +1,27 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Download tray icon</title>
+
+  <defs>
+    <style>
+      .arrow { fill: #7DA55A; }      /* green */
+      .tray  { fill: #C79E82; }      /* tan */
+      .lip   { fill: #A86F57; }      /* darker bottom strip */
+      .notch { fill: #4B281A; }      /* dark brown semicircle */
+    </style>
+  </defs>
+
+  <!-- arrow shaft -->
+  <rect class="arrow" x="108" y="10" width="40" height="80" rx="12" />
+
+  <!-- arrow head -->
+  <polygon class="arrow" points="80,90 176,90 128,150"/>
+
+  <!-- tray body -->
+  <rect class="tray" x="15" y="160" width="226" height="70" rx="12"/>
+
+  <!-- semicircle notch (inset) -->
+  <circle class="notch" cx="128" cy="160" r="28"/>
+
+  <!-- bottom lip/shadow -->
+  <rect class="lip" x="15" y="220" width="226" height="12" rx="4"/>
+</svg>

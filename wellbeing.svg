@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-label="wellbeing leaf sprig">
+  <title>Wellbeing</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2ecc71"/>
+      <stop offset="1" stop-color="#27ae60"/>
+    </linearGradient>
+  </defs>
+
+  <!-- stem -->
+  <path d="M11.5 20.5c2-3.5 2.5-7.2 2.2-11.3" fill="none" stroke="#1e8e5a" stroke-width="1.6" stroke-linecap="round"/>
+
+  <!-- left leaf -->
+  <path d="M6.2 9.5c2.7-1.4 5.1-1.3 7.3.2-1.6 2.9-4.1 3.7-7.3-.2z" fill="url(#g)"/>
+
+  <!-- right leaf -->
+  <path d="M15.5 5.5c2.1-.3 3.9.5 5.3 2.4-2.7 1.8-4.8 1.6-6.6-.7 0 0 .6-1.4 1.3-1.7z" fill="url(#g)"/>
+
+  <!-- small bottom leaf -->
+  <path d="M8.8 15.8c1.9-.4 3.4.1 4.6 1.6-2 .9-3.6.6-4.9-.9 0 0 .2-.5.3-.7z" fill="url(#g)"/>
+</svg>
