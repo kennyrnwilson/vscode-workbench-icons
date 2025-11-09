@@ -1,0 +1,5 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Proper infinity symbol (∞) with pastel blue -->
+  <path d="M 30 128 C 30 95 50 75 75 75 C 100 75 120 95 120 128 C 120 161 100 181 75 181 C 50 181 30 161 30 128 M 120 128 C 120 95 140 75 165 75 C 190 75 210 95 210 128 C 210 161 190 181 165 181 C 140 181 120 161 120 128"
+    fill="none" stroke="#6B9BD1" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

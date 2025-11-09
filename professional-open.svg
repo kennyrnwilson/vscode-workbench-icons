@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Professional briefcase icon">
+  <!-- Main body -->
+  <rect x="8" y="16" width="48" height="32" rx="3" fill="#8d6e63"/>
+
+  <!-- Handle (connected to body) -->
+  <path fill="#6d4c41" d="M24 12c0-2.2 1.8-4 4-4h8c2.2 0 4 1.8 4 4v4h-16v-4z"/>
+  <!-- Hollow opening in handle -->
+  <rect x="28" y="10" width="8" height="2" rx="1" fill="#000" opacity="0.25"/>
+
+  <!-- Seam between flap and lower section -->
+  <rect x="8" y="26" width="48" height="2" rx="1" fill="#6d4c41"/>
+
+  <!-- Clasp -->
+  <rect x="28" y="28" width="8" height="6" rx="2" fill="#eee"/>
+
+  <!-- Subtle base shadow -->
+  <rect x="8" y="46" width="48" height="2" fill="#5d4037" opacity="0.4"/>
+</svg>
